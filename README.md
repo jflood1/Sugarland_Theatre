@@ -1,4 +1,4 @@
-                    SUGARLAND THEATRE
+      
 This web application is a simple and user-friendly web application built for booking movie seats. It provides an intuitive interface for users to select their desired movie, choose seats, and confirm their booking. 
 
 Features:
